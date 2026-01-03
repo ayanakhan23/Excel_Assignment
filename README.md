@@ -128,8 +128,8 @@ This Excel Practical Assignment demonstrates a complete hands‑on mastery of Ex
 analytical thinking, data cleaning, reporting, and automation. The skills developed through this
 assignment are directly applicable to roles in data analysis, operations, finance, sales analytics, and reporting.
 
-Author -
+Author - Ayana Khan
 
-Ayana Khan
+
 Excel Practical Assignment – Skill Development Project
 
